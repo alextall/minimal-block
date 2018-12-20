@@ -1,7 +1,7 @@
 # General
-name: Minimal-Block
-description: "Minimalistic, friendly, responsive."
-url: https://blog.drvy.net/minimal-block
+name: NSCoder Night
+description: "Work on projects, get help, and discuss all things Apple."
+url: https://alextall.github.io/minimal-block
 
 markdown: redcarpet
 highlighter: pygments
@@ -10,10 +10,10 @@ paginate: 5
 permalink: /:title
 
 # Social share and comments.
-disqus-id: drvy
-twitter: drvymonkey
-github: drvy
-google: +DrvyMonkey
+disqus-id: 
+twitter: alextall
+github: alextall
+google: 
 
 # RSS feed
 rss-feed-limit: 10
