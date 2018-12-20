@@ -10,10 +10,8 @@ paginate: 5
 permalink: /:title
 
 # Social share and comments.
-disqus-id: 
-twitter: alextall
-github: alextall
-google: 
+twitter: nscodershou
+meetup: https://www.meetup.com/NSCoder-Night-Houston/
 
 # RSS feed
 rss-feed-limit: 10
