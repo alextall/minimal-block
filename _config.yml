@@ -1,12 +1,12 @@
 #------------------------------------------------------------------------------
 # General
 #------------------------------------------------------------------------------
-name: "Minimal-Block"
-description: "Minimalistic, friendly, responsive."
+name: "NSCoder Night - Houston"
+description: "Work on projects, get help, and discuss all things Apple."
 language: "en"
 
-url: http://localhost:4000
-baseurl: ''
+url: https://alextall.github.io
+baseurl: '/minimal-block'
 
 #------------------------------------------------------------------------------
 # Markdown processor and code highlighting
