@@ -4,7 +4,7 @@ description: "Work on projects, get help, and discuss all things Apple."
 url: https://alextall.github.io/minimal-block
 
 markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 
 paginate: 5
 permalink: /:title
