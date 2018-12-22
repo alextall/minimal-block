@@ -5,6 +5,7 @@ url: https://alextall.github.io/minimal-block
 
 markdown: kramdown
 highlighter: rouge
+excerpt_separator: <!--more-->
 
 paginate: 5
 permalink: /:title
