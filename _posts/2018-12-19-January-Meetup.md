@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "January Meetup"
+title:  "January"
 date:   2018-12-19 00:00:01
 categories: news
 ---
